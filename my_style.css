@@ -1,0 +1,18 @@
+.upperR{
+  list-style-type: upper-roman;
+}
+
+.lowerR{
+  list-style-type: lower-roman;
+}
+
+.bigText{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.medianText{
+  font-weight: bold;
+  font-size: 20px;
+
+}
